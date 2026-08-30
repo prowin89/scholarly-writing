@@ -1,0 +1,22 @@
+{
+  "name": "scholarly-writing",
+  "description": "End-to-end scholarly manuscript authoring for journal papers, theses, and systematic reviews.",
+  "version": "0.1.0",
+  "author": {
+    "name": "The AI Prof",
+    "url": "https://github.com/prowin89"
+  },
+  "license": "CC-BY-4.0",
+  "homepage": "https://github.com/prowin89/scholarly-writing",
+  "repository": "https://github.com/prowin89/scholarly-writing",
+  "keywords": [
+    "scholarly-writing",
+    "academic-writing",
+    "manuscript",
+    "systematic-review",
+    "literature-review",
+    "research",
+    "phd",
+    "peer-review"
+  ]
+}
